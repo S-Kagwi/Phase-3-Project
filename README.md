@@ -73,8 +73,11 @@ The steps for modeling went as follows: build a model, print classification repo
 
 # Repository Contents
 ├── images: images used in PPT and readme
+
 ├── .gitignore
+
 ├── CONTRIBUTING.md
+
 ├── LICENSE.md
 ├── README.md: project information and repository structure
 ├── Working_Notebook
