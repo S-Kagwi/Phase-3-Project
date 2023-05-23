@@ -52,8 +52,8 @@ Results:
 <img src="images/random_forest.png">
 
 Results:
-- Recall Score (not churning): <code>99%</code>
-- Recall Score (churning): <code>60%</code>
+- Recall Score (did not churn): <code>99%</code>
+- Recall Score (churn): <code>60%</code>
 
 
 ## Analysis
