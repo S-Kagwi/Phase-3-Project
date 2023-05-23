@@ -30,14 +30,30 @@ The recall score is true positive divided by the true positive plus the false ne
 ### Model 1: Baseline Mode
 <img src="images/baseline_model.png">
 
-### Model 2: Decision Trees
+Results:
+- Recall Score (did not churn): <code>75%</code>
+- Recall Score (chur): <code>76%</code>
+
+### Model 2: Decision Tree
 <img src="images/decision_tree.png">
+
+Results:
+- Recall Score (did not churn): <code>98%</code>
+- Recall Score (churn): <code>67%</code>
 
 ### Model 3: KNN
 <img src="images/knn.png">
 
+Results:
+- Recall Score (did not churn): <code>80%</code>
+- Recall Score (churn): <code>60%</code>
+
 ### Model 4: Random Forest
 <img src="images/random_forest.png">
+
+Results:
+- Recall Score (not churning): <code>99%</code>
+- Recall Score (churning): <code>60%</code>
 
 
 ## Analysis
@@ -54,14 +70,14 @@ The steps for modeling went as follows: build a model, print classification repo
 - The firm should look into more variables that may have an effect on churn, such as: gender, regions and age-group.
 
 # Repository Contents
-- images: images used in PPT and readme
-- .gitignore
-- CONTRIBUTING.md
-- LICENSE.md
-- README.md: project information and repository structure
-- Working_Notebook
-- churn_data: data used for modeling and analysis
-- notebook.pdf
-- presentation.pdf
-- presentation.ppt: Non-technical Presentation for Stakeholders
-- student.ipynb: jupyter notebook used for modeling
+├── images: images used in PPT and readme
+├── .gitignore
+├── CONTRIBUTING.md
+├── LICENSE.md
+├── README.md: project information and repository structure
+├── Working_Notebook
+├── churn_data: data used for modeling and analysis
+├── notebook.pdf
+├── presentation.pdf
+├── presentation.ppt: Non-technical Presentation for Stakeholders
+├── student.ipynb: jupyter notebook used for modeling
