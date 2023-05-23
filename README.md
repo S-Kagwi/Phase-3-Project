@@ -27,7 +27,17 @@ The following steps were taken to prepare the data:
 I chose to use Recall as my evaluation metric.
 The recall score is true positive divided by the true positive plus the false negative. It is the measure of actual observations which are predicted correctly. I chose this metric because we want to capture as many positives as possible, and doing so would reduce the number of false negatives. In this case, a false negative would be the number of customers identified as churned, but were classified as not churned. 
 
+### Model 1: Baseline Mode
+<img src="images/baseline_model.png">
 
+### Model 2: Decision Trees
+<img src="images/decision_tree.png">
+
+### Model 3: KNN
+<img src="images/knn.png">
+
+### Model 4: Random Forest
+<img src="images/random_forest.png">
 
 
 ## Analysis
