@@ -42,3 +42,16 @@ The steps for modeling went as follows: build a model, print classification repo
 - The firm should get more balanced data in order to improve the classification models.
 
 - The firm should look into more variables that may have an effect on churn, such as: gender, regions and age-group.
+
+# Repository Contents
+- images: images used in PPT and readme
+- .gitignore
+- CONTRIBUTING.md
+- LICENSE.md
+- README.md: project information and repository structure
+- Working_Notebook
+- churn_data: data used for modeling and analysis
+- notebook.pdf
+- presentation.pdf
+- presentation.ppt: Non-technical Presentation for Stakeholders
+- student.ipynb: jupyter notebook used for modeling
