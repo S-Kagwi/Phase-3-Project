@@ -1,4 +1,4 @@
-# SyriaTel Customer Churn Classification Project 
+#SyriaTel Customer Churn Classification Project 
 <img src="images/SyriaTel.jpg">
 
 <b>Author:</b> Samwel Kagwi
