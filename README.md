@@ -79,10 +79,17 @@ The steps for modeling went as follows: build a model, print classification repo
 ├── CONTRIBUTING.md
 
 ├── LICENSE.md
+
 ├── README.md: project information and repository structure
+
 ├── Working_Notebook
+
 ├── churn_data: data used for modeling and analysis
+
 ├── notebook.pdf
+
 ├── presentation.pdf
+
 ├── presentation.ppt: Non-technical Presentation for Stakeholders
+
 ├── student.ipynb: jupyter notebook used for modeling
